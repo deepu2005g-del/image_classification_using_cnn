@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+env/
+venv/
+.env
+
+# Data
+data/
+*.pth
+*.keras
+*.h5
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Output
+*.png
